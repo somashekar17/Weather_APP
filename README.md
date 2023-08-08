@@ -20,17 +20,17 @@ Enter the name of the city you want to get weather information for.
 Click the search button.
 The app will display the temperature, humidity, wind speed, and an appropriate weather icon.
 Screenshots
-Screenshot 1:
+Screenshot 1: Front Page 
 
 ![Weather_front-page](https://github.com/somashekar17/Weather_APP/assets/49157790/b63113d0-f028-4b48-b0ac-4ae2c4f1ea66)
 
-Screenshot 2:
+Screenshot 2: Error Page
 
 
 ![Weather_Invalid_name](https://github.com/somashekar17/Weather_APP/assets/49157790/eac4dec7-d21a-4bc3-a5a1-9b21e1ffcc2f)
 
 
-Screenshot 3:
+Screenshot 3: Final Page
 
 
 
