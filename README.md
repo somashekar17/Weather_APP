@@ -13,7 +13,7 @@ CSS3 (Styling)
 JavaScript (Fetch API for API calls and dynamic updates)
 
 Getting Started:
-Clone the repository: git clone https://github.com/your-username/weather-app.git
+Clone the repository: git clone https://github.com/somashekar17/weather-app.git
 Open index.html in a web browser.
 Usage
 Enter the name of the city you want to get weather information for.
